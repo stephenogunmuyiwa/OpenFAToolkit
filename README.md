@@ -28,7 +28,7 @@ OpenFAToolkit solves this by providing an open-source, all inclusive framework t
 2. **Wallet Agnostic**: Supports all fintech wallet providers (Flutterwave, Paystack, ...).
 3. **Customizable & Open Sourced**: Use or add more tools for any finance functionality (sending money, checking wallet balance, etc) and analysis .
 
-![OpenFAT](https://github.com/stephenogunmuyiwa/OpenFAToolkit/blob/python/assets/cover.mp4)
+![OpenFAT](https://github.com/stephenogunmuyiwa/OpenFAToolkit/blob/python/assets/cover1.png?raw=true)
 
 ### How it works
 

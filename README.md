@@ -1,3 +1,5 @@
+![OpenFAT](https://github.com/stephenogunmuyiwa/OpenFAToolkit/blob/python/assets/cover2.png?raw=true)
+
 <div align="center">
 AI Agents can do Finance
 

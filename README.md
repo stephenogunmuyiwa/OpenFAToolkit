@@ -56,7 +56,7 @@ import os
 load_dotenv()
 
 genai.configure(api_key= os.getenv('GEMINI_API_KEY'))
-flw = flutterwave(secret_key=os.getenv('FLW_SEC_KEY'))
+flw = flutterwave(secret_key=os.getenv('FLW_SEC_KEY'), threshold_amount=1000)
 
 generation_config = {
   "temperature": 1,

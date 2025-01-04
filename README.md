@@ -3,7 +3,7 @@
 <div align="center">
 AI Agents can do Finance
 
-[Docs](https://github.com/stephenohunmuyiwa/OpenFAToolkit/README.md) | [Examples](https://github.com/stephenohunmuyiwa/OpenFAToolkit/tree/python/examples) | [Twitter](https://x.com/stephenogunmuy1)
+[Docs](https://github.com/stephenogunmuyiwa/OpenFAToolkit/README.md) | [Examples](https://github.com/stephenogunmuyiwa/OpenFAToolkit/tree/python/examples) | [Twitter](https://x.com/stephenogunmuy1)
 
 OpenFAToolkit is a free open source software, MIT licensed, built on the APIs of [Flutterwave](https://www.flutterwave.com) | [Paystack](https://www.paystack.com)
 
@@ -16,7 +16,7 @@ OpenFAToolkit (Open Finance Agent Toolkit) is an open-source framework for addin
 **Problem**:
 
 Making agents perform financial transactions is tedious. The ecosystem is heavily fragmented, spanning 5+ popular agent development frameworks, multiple programming languages, and dozens of different fintech APIs and banking architectures.
-For developers without expertise in using fintech APIs, being able to add finance caoablilities to your agents seems like an impossible task.
+For developers without expertise in using fintech APIs, being able to add finance capablilities to your agents seems like an impossible task.
 
 **Solution**:
 
@@ -84,4 +84,4 @@ response = chat_session.send_message("I want to make a transfer of 1000 naira to
 print(response.text)
 ```
 
-See [here](https://github.com/stephenohunmuyiwa/OpenFAToolkit/tree/python/examples) for more examples.
+See [here](https://github.com/stephenogunmuyiwa/OpenFAToolkit/tree/python/examples) for more examples.

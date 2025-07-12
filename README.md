@@ -11,7 +11,7 @@ OpenFAToolkit is a developer software, MIT licensed, built on the APIs of [Flutt
 
 ## OpenFAToolkit
 
-OpenFAToolkit (Open Finance Agent Toolkit) is an open-source framework for adding fintech tools such as wallets, being able to make bill payments, or send money accross several channels, to your AI agent.
+OpenFAToolkit (Open Finance Agent Toolkit) is a framework for adding fintech tools such as wallets, being able to make bill payments, or send money accross several channels, to your AI agent.
 
 **Problem**:
 

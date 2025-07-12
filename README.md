@@ -5,7 +5,7 @@ AI Agents can do Finance
 
 [Docs](https://github.com/stephenogunmuyiwa/OpenFAToolkit/README.md) | [Examples](https://github.com/stephenogunmuyiwa/OpenFAToolkit/tree/python/examples) | [Twitter](https://x.com/stephenogunmuy1)
 
-OpenFAToolkit is a free open source software, MIT licensed, built on the APIs of [Flutterwave](https://www.flutterwave.com) | [Paystack](https://www.paystack.com)
+OpenFAToolkit is a developer software, MIT licensed, built on the APIs of [Flutterwave](https://www.flutterwave.com) | [Paystack](https://www.paystack.com)
 
 </div>
 
@@ -28,7 +28,7 @@ OpenFAToolkit solves this by providing an open-source, all inclusive framework t
 
 1. **Works Everywhere**: Compatible with Langchain, Openai, Gemini, and more.
 2. **Wallet Agnostic**: Supports all fintech wallet providers (Flutterwave, Paystack, ...).
-3. **Customizable & Open Sourced**: Use or add more tools for any finance functionality (sending money, checking wallet balance, etc) and analysis .
+3. **Customizable**: Use or add more tools for any finance functionality (sending money, checking wallet balance, etc) and analysis .
 
 ![OpenFAT](https://github.com/stephenogunmuyiwa/OpenFAToolkit/blob/python/assets/cover1.png?raw=true)
 
